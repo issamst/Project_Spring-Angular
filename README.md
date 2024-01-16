@@ -1,4 +1,4 @@
-ba9ina ghir 8 -> 10
+ba9i ghir 8 -> 10
 
 
 
